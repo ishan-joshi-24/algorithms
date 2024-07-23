@@ -1,7 +1,7 @@
 
 # Data Structures and Algorithms
 
-This project contains a list of the most popular data structures and algorithm questions asked in coding interviews.
+This project contains a list of the most popular data structures and algorithm questions along with concepts asked in coding interviews.
 
 
 
